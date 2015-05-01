@@ -1,7 +1,5 @@
 'use strict';
 
-var Meetup = require('../lib/meetup');
-
 describe("Meetup", function() {
 
   it("monteenth of may 2013",function() {

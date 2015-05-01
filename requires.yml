@@ -1,0 +1,6 @@
+# A list of javascript files required for the project, in dependency order
+javascripts:
+  files:
+    - lib/meetup.js
+  specs:
+    - spec/meetup.spec.js
