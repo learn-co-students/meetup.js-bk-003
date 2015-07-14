@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: date, oo
----
-
 # Meetup
 ## Getting Started
 
